@@ -46,3 +46,12 @@ data_analysis_lib/
 ├── viz/
 │   ├── plotting.py     # matplotlib wrappers
 ```
+
+# TODOs:
+
+Phase 1: Core functionalities
+- [ ] Implement basic statistical functions (mean, variance, std and covariance)
+- [ ] Implement basic probability distributions (normal, gamma, poisson, binomial, chi-squared)
+- [ ] Implement basic linear algebra operations (matrix multiplication, inversion, eigen decomposition)
+
+Phase 2: TBD
